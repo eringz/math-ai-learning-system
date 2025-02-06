@@ -3,7 +3,7 @@ An AI-powered web-based learning system for elementary math, designed for Life T
 
 # Features
 
-<li>AI-Powered Learning: Personalized math exercises based on students' performance.</li>
+<li>**AI-Powered Learning:** Personalized math exercises based on students' performance.</li>
 <li>Interactive Lessons: Engaging and adaptive content to enhance understanding.</li>
 <li>Real-Time Analytics: Track student progress and provide insights for teachers.</li>
 <li>Gamification: Fun and interactive quizzes to improve engagement.</li>
