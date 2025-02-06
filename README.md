@@ -4,13 +4,12 @@ An AI-powered web-based learning system for elementary math, designed for Life T
 # Features
 
 <li><b>AI-Powered Learning:</b> Personalized math exercises based on students' performance.</li>
-<li>Interactive Lessons: Engaging and adaptive content to enhance understanding.</li>
-<li>Real-Time Analytics: Track student progress and provide insights for teachers.</li>
-<li>Gamification: Fun and interactive quizzes to improve engagement.</li>
-<li>Multi-User Roles: Students, teachers, and administrators have dedicated dashboards.</li>
-<li>Responsive Design: Optimized for various devices including tablets and desktops.</li>
-<li>Secure Authentication: Role-based access for different user types.</li>
-
+<li><b>Interactive Lessons:</b> Engaging and adaptive content to enhance understanding.</li>
+<li><b>Real-Time Analytics:</b> Track student progress and provide insights for teachers.</li>
+<li><b>Gamification:</b> Fun and interactive quizzes to improve engagement.</li>
+<li><b>Multi-User Roles:</b> Students, teachers, and administrators have dedicated dashboards.</li>
+<li><b>Responsive Design:</b> Optimized for various devices including tablets and desktops.</li>
+<li><b>Secure Authentication:</b> Role-based access for different user types.</li>
 
 
 
